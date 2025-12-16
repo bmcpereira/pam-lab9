@@ -4,10 +4,6 @@
       "version": "1.0.0",
       "title": "Messages API",
       "description": "API for managing messages with expiration and mutex locking.",
-      "contact": {
-        "name": "Rúben P. Lourenço",
-        "email": "ruben.lourenco@estsetubal.ips.pt"
-      }
     },
     "host": "localhost:3000",
     "basePath": "/api",
